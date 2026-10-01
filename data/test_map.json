@@ -1,0 +1,14 @@
+{
+  "name": "SERVICE ALLEY",
+  "width": 12,
+  "height": 9,
+  "walls": [[5, 1], [5, 2], [5, 3], [6, 5], [6, 6], [6, 7]],
+  "units": [
+    {"id": "p1", "name": "Melee 01", "side": "player", "role": "melee", "position": [1, 2]},
+    {"id": "p2", "name": "Ranged 01", "side": "player", "role": "ranged", "position": [1, 4]},
+    {"id": "p3", "name": "Melee 02", "side": "player", "role": "melee", "position": [1, 6]},
+    {"id": "e1", "name": "Enemy Melee 01", "side": "enemy", "role": "melee", "position": [10, 2]},
+    {"id": "e2", "name": "Enemy Ranged 01", "side": "enemy", "role": "ranged", "position": [10, 4]},
+    {"id": "e3", "name": "Enemy Melee 02", "side": "enemy", "role": "melee", "position": [10, 6]}
+  ]
+}
